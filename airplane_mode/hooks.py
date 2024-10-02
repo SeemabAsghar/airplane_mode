@@ -1,6 +1,6 @@
 app_name = "airplane_mode"
 app_title = "airplane_mode"
-app_publisher = "seeemi"
+app_publisher = "seemi"
 app_description = "for practice"
 app_email = "seemabasghar64@gmail.com"
 app_license = "mit"
