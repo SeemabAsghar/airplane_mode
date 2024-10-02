@@ -1,7 +1,7 @@
 app_name = "airplane_mode"
-app_title = "Airplane Mode"
-app_publisher = "seemab"
-app_description = "just for practice"
+app_title = "airplane_mode"
+app_publisher = "seeemi"
+app_description = "for practice"
 app_email = "seemabasghar64@gmail.com"
 app_license = "mit"
 
@@ -15,7 +15,7 @@ app_license = "mit"
 # 	{
 # 		"name": "airplane_mode",
 # 		"logo": "/assets/airplane_mode/logo.png",
-# 		"title": "Airplane Mode",
+# 		"title": "airplane_mode",
 # 		"route": "/airplane_mode",
 # 		"has_permission": "airplane_mode.api.permission.has_app_permission"
 # 	}

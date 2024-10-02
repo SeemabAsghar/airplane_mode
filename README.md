@@ -1,6 +1,6 @@
-## Airplane Mode
+## airplane_mode
 
-just for practice
+for practice
 
 #### License
 
